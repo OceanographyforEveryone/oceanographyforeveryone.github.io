@@ -10,4 +10,14 @@ Under each project, you will find links to resources, build guides, 3D-printer f
 
 The ocean belongs to all of us. Let’s ensure that everyone has access to the tools needed to understand it.
 
-### Some more markdown
+### Meet the OpenCTD
+
+### Meet Niskin3D
+
+### Other Projects
+
+### Meet the Team
+
+### Publications
+
+### How You Can Help
