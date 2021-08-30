@@ -1,6 +1,6 @@
 ## The ocean belongs to everyone.
 
-![Oceanography for Everyone logo](https://github.com/OceanographyforEveryone/oceanographyforeveryone.github.io/blob/master/OfE_sticker2.jpg)
+![Oceanography for Everyone logo](OfE_sticker2.jpg)
 
 The tools necessary to study, explore, and understand the ocean are often inaccessible to the vast majority of ocean users. By nurturing a community of open-source hardware developers, scientists, and ocean stakeholders, we want to change that.
 
