@@ -12,6 +12,16 @@ The ocean belongs to all of us. Let’s ensure that everyone has access to the t
 
 ### Meet the OpenCTD
 
+To reveal ocean patterns hidden beneath the sea's surface, oceanographers use an instrument called a CTD that measures conductivity (which serves as a proxy for salinity), temperature, and depth. Commercial CTDs are expensive, with the most affordable models costing as much as $6,000.00. For near-shore work on the continental shelf, where water depths rarely exceeds 200 meters, this can be a prohibitive cost. The expense of commercial CTDs is a barrier-to-entry for formal and informal researchers working with limited budgets, including scientists from small island developing states, concerned citizens, environmental educators, managers, practicioners, students, and ocean stakeholders interested in understanding their local coasts and waterways.
+
+The OpenCTD is a low-cost, open-source CTD designed for ocean stakholders working in coastal marine environments, where entire research and monitorring projects can be conducted for less than the cost of a commercial CTD. It was developed by a core team of marine ecologists in collaboration with a distributed community of scientists, engineers, makers, and conservation practitioners. It is assembled from components commonly available at large hardware stores or through major online retailers. 
+
+Climate change, ocean acidification, and sea level rise have created an urgent need for extensive, high-resolution measurements of oceanographic conditions both globally and locally. At the same time, government funding at both state and federal levels for climate change research can be unreliable, if not wholly non-existent. This creates a pressing need for low-cost alternatives to common scientific instruments that allow formal researchers to stretch the impact of extant funding awards while simultaneously allowing informal researchers (such as environmental monitoring groups and non-governmental organizations, as well as concerned community members) to contribute water-quality measurements. The OpenCTD can help fill that need.
+
+The OpenCTD is design to be built by the end-user, providing both access to the tools of oceanography and the skills to maintain, repair, and replace OpenCTDs. For educators looking a for novel, in-depth, hands-on STEM experience for advanced students, the process of building an OpenCTD can offer a great introduction to coding, 3D-printing, hardware prototyping, and electronics. Construction of an OpenCTD can provide a practical foundation for courses in oceanography, environmental science, or physics.
+
+#### OpenCTD Resources
+
 ### Meet Niskin3D
 
 ### Other Projects
